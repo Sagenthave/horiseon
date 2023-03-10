@@ -2,7 +2,7 @@
 ## Project Objective 
 The purpose of this project was to make the site provided more accessible to the search engines. I will be refactoring the code to include semantic HTML to make the site more accessible. 
 
-**NOTE:** Website has been renamed to Horiseon
+- **NOTE:** Website has been renamed to Horiseon
 
 ![screenshot](/assets/images/WebImage.png)
 
@@ -31,5 +31,6 @@ GitHub: https://github.com/coding-boot-camp/urban-octo-telegram
 - Code was refractured by Sagenthave Senthan
 - Assistance from Abiel Hailemariam (TA), Shihan (Assistant Instructor), & Tareque Moatar (Assistant Instructor)
 
-# Link to Deployed Application 
-
+# Repository URL & Link to Deployed Application 
+- Repository URL: https://github.com/Sagenthave/horiseon 
+- Deployed Application: https://sagenthave.github.io/horiseon
