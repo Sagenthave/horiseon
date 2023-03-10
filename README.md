@@ -1,9 +1,12 @@
-# Refracture HORISEON website code
+# Refracture Website Code (Horiseon)
 ## Project Objective 
 The purpose of this project was to make the site provided more accessible to the search engines. I will be refactoring the code to include semantic HTML to make the site more accessible. 
-**NOTE** Website has been renamed to Horiseon
 
-### Semantic HTML Changes
+**NOTE:** Website has been renamed to Horiseon
+
+![screenshot](/assets/images/WebImage.png)
+
+## Semantic HTML Changes
 
 #### Header 
 - The code from line 11-26 has been labelled as the header element
@@ -21,3 +24,12 @@ The purpose of this project was to make the site provided more accessible to the
 - The code from line 74-79 has been labelled as the footer (the end of the webpage)
 
 # Credit 
+Original code was pulled from Xandromus
+GitHub: https://github.com/coding-boot-camp/urban-octo-telegram
+
+# Code Refracture Contributors 
+- Code was refractured by Sagenthave Senthan
+- Assistance from Abiel Hailemariam (TA), Shihan (Assistant Instructor), & Tareque Moatar (Assistant Instructor)
+
+# Link to Deployed Application 
+
